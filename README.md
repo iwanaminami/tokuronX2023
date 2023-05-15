@@ -44,4 +44,4 @@ Googleのサービス（GmailやYouTubeなど）にログインしているな�
 
 以下のURLからフォームに回答する形でレポートを提出
 
-https://forms.gle/gdmiVHiCL5wDYRDZ7
+[https://forms.gle/gdmiVHiCL5wDYRDZ7](https://forms.office.com/r/c1iSSRYCgm)
